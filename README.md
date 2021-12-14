@@ -20,4 +20,4 @@
 ##### FinalProjectManual.py - contains our logic to manually steer the ROSbot using the Linux joystick.
   
 
-#### Check out our report [here!](https://www.overleaf.com/project/619452bc8d0b8355956a2ba6)
+#### Check out our report [here!](https://drive.google.com/file/d/1cEQPBTD1CFrjuG34b5TgPMDjt5o7CCve/view?usp=sharing)
